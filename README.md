@@ -13,8 +13,7 @@ change.
 
 II. A description of data
 
-The data set is downloaded from the NASA Official Climate Change website ​ Link
-here . The data set combines average temperature of land and ocean. ​ Temperature
+The data set is downloaded from the NASA Official Climate Change website [here][https://climate.nasa.gov/system/internal_resources/details/original/647_Global_Temperature_Data_File.txt]. . The data set combines average temperature of land and ocean. ​ Temperature
 densities from globally distributed data during the 1880 to 2017 period are treated as
 a time series of functional observations that change over time.
 
