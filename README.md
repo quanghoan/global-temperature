@@ -1,8 +1,8 @@
 # STATISTICS FOR SPATIO - TEMPORAL DATA
 ## Proposal for Final Project
 
-Professor: Carlo Gaetan
-Student: Dao Quang Hoan
+### Professor: Carlo Gaetan
+### Student: Dao Quang Hoan
 
 I. Motivation for the problem
 
